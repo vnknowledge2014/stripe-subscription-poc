@@ -1,0 +1,11 @@
+{
+  "name": "poc_subscription_stripe",
+  "version": "1.0.0",
+  "description": "stripe subscription",
+  "main": "app.js",
+  "author": "mike",
+  "license": "MIT",
+  "dependencies": {
+    "stripe": "^8.137.0"
+  }
+}
